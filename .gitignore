@@ -1,0 +1,4 @@
+.idea/
+result/*.csv
+exp-lotto.iml
+target/
